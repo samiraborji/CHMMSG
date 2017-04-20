@@ -24,11 +24,27 @@ Editing of learning environment :)
   1. Donne une bonne image des étudiants et de l'institution
   2. Faire connaitre la formation de grand public
   3. Assure une crédibilité et professionalisme de l'institution
-  4. Assure la perennité de la formation et de l'institution
+  4. Assure la perennité de la formation et de l'institution 
+
+## Materiel
+
+  Le matériel nécessaire pour **l'apprentisage** de becode nécessite un *ordinateur* et une bonne connexion internet.
+Après il existe des *must-have* comme:
+
+  * Une table
+  * une chaise
+  * un bic
+  * Des feuilles
+  * une souris
+  * Un tapis de souris
   
+Aprèsl'organisme peut être vraiment gentil en proposant:
   
-  
-  
-  
-  
-  
+  1. Du café
+  2. Du thé
+  3. De l'eau
+  4. Des petits encas si l'organisme est vraiment top 
+
+![Coffe](https://media.giphy.com/media/CqtG4f5UF9G5q/giphy.gif)
+
+
