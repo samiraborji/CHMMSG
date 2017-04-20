@@ -36,7 +36,9 @@
   1. Donne une bonne image des étudiants et de l'institution
   2. Faire connaitre la formation de grand public
   3. Assure une crédibilité et professionalisme de l'institution
-  4. Assure la perennité de la formation et de l'institution 
+  4. Assure la perennité de la formation et de l'institution
+  
+  Pour que la communication soit fluide, efficace, fonctionnelle et excellente, nous avons besoin d'un environnement agréable et chaleureux mais surtout des matériels convenables et adéquats.
 
 ## Materiel
 
