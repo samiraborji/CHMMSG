@@ -1,26 +1,16 @@
-# Notre environnement ideal d'apprentissage
+## L'environnement
 
    * Bon éclairage
    * Bonne aération
    * bonne température
    
-## A la disposition
+### A la disposition
 
    1. bureau et chaise ergonomique
    2. coin détente
    3. coin cuisine
    
-## A manger et à boire
 
-   #### fruits
-      fruits frais
-        fruits rouges,fruits exotiques
-      fruits secs
-        sucrés,salés
-        
-   #### boissons chaudes et froides
-         thés,cafés
-         eaux,jus de fruits
 
 ## Communication
   
@@ -60,11 +50,16 @@ Après il existe des *must-have* comme:
   * une souris
   * Un tapis de souris
   
-Après l'organisme peut être vraiment gentil en proposant:
-  
-  1. Du café
-  2. Du thé
-  3. De l'eau
-  4. Des petits encas si l'organisme est vraiment top 
+Après l'organisme peut être vraiment gentil en proposant des petits encas:
+
+   ### fruits
+      fruits frais
+        fruits rouges,fruits exotiques
+      fruits secs
+        sucrés,salés
+        
+   ### boissons chaudes et froides
+         thés,cafés
+         eaux,jus de fruits
 
 ![Coffe](https://media.giphy.com/media/CqtG4f5UF9G5q/giphy.gif)
