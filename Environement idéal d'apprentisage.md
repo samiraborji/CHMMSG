@@ -69,4 +69,6 @@ Après l'organisme peut être vraiment gentil en proposant des petits encas:
         thés,cafés
         eaux,jus de fruits
 
+Nous avons tous hate de progresser tous ensemble avec ce superbe groupe, ainsi que de pouvoir gouter à ce café.
+
 ![Coffe](https://media.giphy.com/media/CqtG4f5UF9G5q/giphy.gif)
