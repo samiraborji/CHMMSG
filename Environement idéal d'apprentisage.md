@@ -18,7 +18,7 @@
   3. Assure une crédibilité et professionalisme de l'institution
   4. Assure la perennité de la formation et de l'institution 
   
-##Materiel
+## Materiel
 
   Le matériel nécessaire pour **l'apprentisage** de becode nécessite un *ordinateur* et une bonne connexion internet.
 Après il existe des *must-have* comme:
