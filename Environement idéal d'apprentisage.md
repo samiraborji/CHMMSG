@@ -1,5 +1,5 @@
 
-# l'environnement d'apprentisage.
+# L'environnement d'apprentisage.
 
 ## Introduction
 
