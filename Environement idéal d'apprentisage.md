@@ -9,8 +9,6 @@
    1. bureau et chaise ergonomique
    2. coin détente
    3. coin cuisine
-   
-
 
 ## Communication
   
@@ -26,10 +24,10 @@
   
   #### B. Communication informelle
   
-  * Entretien une boonne interaction et le respect des uns et des autres
+  * Entretien une bonne interaction et le respect des uns et des autres
   * Le partage des idées, des connaissances et des compétences
-  * Faciliter la pratique et la transmission des savoirs dans le but de se perfectionner: "Practice makes perfect"
-  * Créer la solidarité, la confiance et la motivation dans le groupe
+  * Facilite la pratique et la transmission des savoirs dans le but de se perfectionner: "Practice makes perfect"
+  * Crée la solidarité, la confiance et la motivation dans le groupe
   
   ### II. Communication externe
   
