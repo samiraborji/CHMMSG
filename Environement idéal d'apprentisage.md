@@ -1,6 +1,6 @@
-#Editing of learning environment :) 
+# Editing of learning environment :) 
 
-##Materiel
+## Materiel
 
 Le matériel nécessaire pour **l'apprentisage** de becode nécessite un *ordinateur* et une bonne connexion internet.
 Après il existe des *must-have* comme:
