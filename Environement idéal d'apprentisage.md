@@ -1,9 +1,9 @@
 Editing of learning environment :) 
 
-Communication
+## Communication
   La communication constitute le moteur, le noeud et l'essence même dans le cadre de l'apprenstissage
   
-  A. Communication interne
+  ### A. Communication interne
   
   - Définir un projet pédagogique clair et réaliste
   - de planifier les objectifs et s'organiser personnellement et collectivement
@@ -13,7 +13,7 @@ Communication
   - Faciliter la pratique et la transmission des savoirs dans le but de se perfectionner: "Practice makes perfect"
   - Créer la solidarité, la confiance et la motivation dans le groupe
   
-  B. Communication externe
+  ### B. Communication externe
   
   - Donne une bonne image des étudiants et de l'institution
   - Faire connaitre la formation de grand public
