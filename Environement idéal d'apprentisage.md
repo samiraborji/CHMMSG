@@ -53,13 +53,13 @@ Après il existe des *must-have* comme:
 Après l'organisme peut être vraiment gentil en proposant des petits encas:
 
    ### fruits
-      fruits frais
-        fruits rouges,fruits exotiques
-      fruits secs
-        sucrés,salés
+        fruits frais
+          fruits rouges,fruits exotiques
+        fruits secs
+          sucrés,salés
         
    ### boissons chaudes et froides
-         thés,cafés
-         eaux,jus de fruits
+        thés,cafés
+        eaux,jus de fruits
 
 ![Coffe](https://media.giphy.com/media/CqtG4f5UF9G5q/giphy.gif)
