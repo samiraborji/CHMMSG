@@ -5,6 +5,8 @@ Communication
   
   A. Communication interne
   
+  - Définir un projet pédagogique clair et réaliste
+  - de planifier les objectifs et s'organiser personnellement et collectivement
   - Entretien une boonne interaction et le respect des uns et des autres
   - Eviter les conflits, les non-dits et les malentendits
   - Le partage des idées, des connaissances et des compétences
