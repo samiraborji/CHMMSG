@@ -19,7 +19,7 @@ Editing of learning environment :)
   * Faciliter la pratique et la transmission des savoirs dans le but de se perfectionner: "Practice makes perfect"
   * Créer la solidarité, la confiance et la motivation dans le groupe
   
-  ### B. Communication externe
+  ### II. Communication externe
   
   1. Donne une bonne image des étudiants et de l'institution
   2. Faire connaitre la formation de grand public
