@@ -1,3 +1,5 @@
+## Introduction 
+Le 21 ième siècle a vu les technologies numériques devenir omniprésentes en son sein. En quelques décennies, l'internet et les technologies qui s'y rapportent sont devenues un atout. Cependant au vu de la complexité grandissante de ces technologies, une formation adéquate est indispensable. Diverses formations ont vu le jour, avec un processus traditionnel de formation s'adressant à un public traditionnel. Mais l'intégration toujours plus grande l'informatique dans nos vie implique la nécessité pour tous de se former. Be</code> répond à cette demande. Son public cible vient d'origine et de parcours différents. Dans le cadre de cette formation, nous avons realisé ce projet sur l'environnement idéal d'apprentissage. Au travers de celui-ci le Groupe 69 (Dire sixtynine) a pu s'initiier au travail collaboratif.
 ## L'environnement
 
    * Bon éclairage
